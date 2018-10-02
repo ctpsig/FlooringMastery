@@ -1,0 +1,4 @@
+1,Wise,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+3,Siggelkow,MI,5.75,Wood,398,5.15,4.75,2049.70,1890.50,226.56,4166.76
+4,Siggelkow,MI,5.75,Tile,67,3.50,4.15,234.50,278.05,29.47,542.02
+5,Siggelkow,MN,null,Carpet,56,null,null,null,null,null,null
